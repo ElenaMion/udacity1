@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Elena on 2/18/18 6:39 AM
+  ~ Copyright (c) 2018 . All rights reserved.
+  -->
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:drawable="@drawable/clock_icon"
+        android:width="@dimen/icon_size"
+        android:height="@dimen/icon_size"
+        />
+
+</layer-list >

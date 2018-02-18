@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SingleScreenApp</string>
+    <string name="google_maps_key">AIzaSyBh3P8OpBzbCVbW-2C7lb-xpEI3Nxmt2YE</string>
+    <string name="company_name">Kitten\'s paws</string>
+    <string name="phone">+371 20418033</string>
+    <string name="webpage">www.kittenspaws.com</string>
+    <string name="address">Upes 2a, Rīga, Latvia</string>
+    <string name="hours">You can visit our animals everyday from\n10 AM till 5 PM.</string>
+    <string name="description">We are a small shelter for cats.\nBut sometimes we take care of other animals also.</string>
+    <string name="video_error_message">Can\'t play video</string>
+    <string name="show_cats">See our cats</string>
+    <string name="show_others">See our other animals</string>
+    <string name="kotya">Kotya was surrendered by her previous \"owner\". The \"owner\" said that it was difficult to care about Kotya (total bs). Kotya is the most well-behaved kitty in the world.</string>
+    <string name="yuki">Yuki was found on the streets when she was about two months old. She is very talkative and brings a lot of fun to everyone.</string>
+    <string name="mila">Mila is the newest kitty in our shelter. She doesn\'t like when someone takes pictures of her, but adores when someone plays with her. But she also can play by herself. In spite being very playful, she is very quiet.</string>
+    <string name="dalmatinka">Dalmatinka is a pup who is always having fun.</string>
+    <string name="daisy">Daisy is Dalmatinka\'s fiancée. Unfortunately her paw was caught in a fire once, so, now she has a scar.</string>
+    <string name="lisichka">Lisichka is a fox that was brought to our shelter from Finland as a gift from the real Santa Claus. </string>
+
+</resources>
